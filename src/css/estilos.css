@@ -427,7 +427,7 @@ body {
 }
 
 
-/*-------------------------animations-----------------------*/
+
 @keyframes transitionAnimation {
     0% {
         opacity: 0;
@@ -460,7 +460,6 @@ body {
 
 
 
-/* credits: https://www.youtube.com/watch?v=aywzn9cf-_U */
 #stars1 {
     width: 1px;
     height: 1px;
